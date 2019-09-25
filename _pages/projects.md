@@ -29,7 +29,7 @@ My bot responds to tweets mentioning my account with the questions like 'How are
 **IDE**: PyCharm <br/>
 
 ## [Twitter Sentiment Analysis](https://github.com/ashmichheda/twitter-sentiment-analysis)
-Developed a Python script that analyzes tweets with respect to the word/hashtag specified by the user along with the number of tweets and performs sentiment analysis to see how positive, negative or neutral it's emotion is. The analysis is represented by pie chart using Matplotlib. 
+Developed a Python script that analyzes tweets with respect to the word/hashtag specified by the user along with the number of tweets and performs sentiment analysis to see how positive, negative or neutral it's emotion is. The analysis is represented by pie chart using Matplotlib. <br/>
 **Keywords**: NLP, Sentiment-analysis, emotion, Twitter APIs, TextBlob, Matplotlib, Tweepy <br/>
 **Project Timeline**: September 2019 - September 2019 <br/>
 **Technologies**: Python <br/>
