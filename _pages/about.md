@@ -11,7 +11,7 @@ redirect_from:
 If I were to define myself in one word, I'd say Curious!
 
 I am a second year Masters student in Computer Science at the [Arizona State University](https://cidse.engineering.asu.edu/graduate-computer-science/). <br/>
-Currently I am interning at [Esri](https://www.esri.com/en-us/home) with the Platform Charts Team. 
+Currently I am interning at [Esri](https://www.esri.com/en-us/home) with the Platform Charts team. 
 Primarily, my interests lie in Machine Learning, Software Engineering and large-scale system design.
 
 Prior to joining ASU, I worked for 3 years at [Accenture](https://www.accenture.com/in-en) as a Software Engineer - developing systems for [J.P. Morgan Chase & Co](https://www.jpmorganchase.com). I completed my Bachelor of Engineering in Computer Engineering from [K. J. Somaiya College of Engineering](https://www.somaiya.edu/kjsce) in 2016.
