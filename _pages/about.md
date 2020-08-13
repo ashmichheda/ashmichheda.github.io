@@ -10,7 +10,7 @@ redirect_from:
 
 If I were to define myself in one word, I'd say Curious!
 
-I am a first year Masters student in Computer Science at the [Arizona State University](https://cidse.engineering.asu.edu/graduate-computer-science/). <br/>
+I am a Second year Masters student in Computer Science at the [Arizona State University](https://cidse.engineering.asu.edu/graduate-computer-science/). <br/>
 Currently I am interning at [Esri](https://www.esri.com/en-us/home) with the Platform Charts Team. 
 Primarily, my interests lie in Machine Learning, Software Engineering and large-scale system design.
 
